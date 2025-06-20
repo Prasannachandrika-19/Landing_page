@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "Open GitHub Page",
+      "url": "https://Prasannachandrika-19.github.io/Landing_page/home.html",
+      "webRoot": "${workspaceFolder}"
+    }
+  ]
+}
+
